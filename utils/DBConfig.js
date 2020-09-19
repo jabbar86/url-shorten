@@ -4,7 +4,7 @@ mongoose.Promise = global.Promise;
 //dev 
 mongoose
     .connect(
-        "mongodb+srv://fruitsalad:CRjAgdpNlEGI6hZr@cluster0-57p2a.gcp.mongodb.net/urlShorten?retryWrites=true&w=majority"
+        "URL" //Paste Your MongoDB URL
         , {
             useNewUrlParser: true,
             useUnifiedTopology: true
