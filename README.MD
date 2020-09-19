@@ -18,6 +18,6 @@ Building a custom URL shortening service like goo.gl using ExpressJs and Mongodb
 1. Below are the Steps.
 
     `i. Install the dependencies using npm install command`
-    
-    `ii. Run the Server using 'nodemon index.js' command. It will listen on http://localhost:7000`
+    `ii. Paste your mongoDB URL in utils/DBConfig.js.`
+    `iii. Run the Server using 'nodemon index.js' command. It will listen on http://localhost:3000`
     
